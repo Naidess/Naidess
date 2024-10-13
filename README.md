@@ -4,11 +4,11 @@ I am pursuing a Bachelor's Degree in Computer Science. I am expanding my knowled
 In the future, I want to delve deeper into cloud computing and Big Data, as I’m fascinated by how they enable scalable, data-driven applications and can help businesses make informed decisions.
 
 ## Skills 
-- Python/Java
-- <a><img src='https://github.com/Naidess/Naidess/blob/main/servidor-sql.png' alt='SQL' height ='25' width='25' style='vertical-align:middle;'> PostgreSQL/PL/SQL</a>
+- <img src='https://github.com/Naidess/Naidess/blob/main/lenguaje-de-programacion.png' alt='lng' height ='25' width='25' style='vertical-align:middle;'> Python/Java
+- <img src='https://github.com/Naidess/Naidess/blob/main/servidor-sql.png' alt='SQL' height ='25' width='25' style='vertical-align:middle;'> PostgreSQL/PL/SQL
 
 ## Currently learning
- JavaScript and Node.Js 
+- <img src='https://github.com/Naidess/Naidess/blob/main/aprender-en-linea.png' alt='lng' height ='25' width='25' style='vertical-align:middle;'> JavaScript and Node.Js 
 
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Naidess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-servián-026292308/)  
