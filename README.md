@@ -4,8 +4,8 @@ I am pursuing a Bachelor's Degree in Computer Science. I am expanding my knowled
 In the future, I want to delve deeper into cloud computing and Big Data, as I’m fascinated by how they enable scalable, data-driven applications and can help businesses make informed decisions.
 
 ## Skills 
-- Python/PL/SQL/Java
-- PostgreSQL
+- Python/Java
+- PostgreSQL/PL/SQL
 
 ## Currently learning
 - JavaScript and Node.Js 
@@ -16,12 +16,3 @@ In the future, I want to delve deeper into cloud computing and Big Data, as I’
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidess)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
