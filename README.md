@@ -5,7 +5,7 @@ In the future, I want to delve deeper into cloud computing and Big Data, as I’
 
 ## Skills 
 - Python/Java
-- <img src='https://github.com/Naidess/Naidess/blob/main/servidor-sql.png' alt='SQL' height ='25' width='25' style='vertical-align:middle;'> PostgreSQL/PL/SQL
+- <a><img src='https://github.com/Naidess/Naidess/blob/main/servidor-sql.png' alt='SQL' height ='25' width='25' style='vertical-align:middle;'> PostgreSQL/PL/SQL</a>
 
 ## Currently learning
  JavaScript and Node.Js 
