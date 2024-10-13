@@ -8,7 +8,7 @@ In the future, I want to delve deeper into cloud computing and Big Data, as I’
 - PostgreSQL/PL/SQL
 
 ## Currently learning
-- JavaScript and Node.Js 
+<img src='https://github.com/Naidess/Naidess/blob/main/servidor-sql.png'> JavaScript and Node.Js 
 
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Naidess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-servián-026292308/)  
