@@ -1,6 +1,6 @@
 # Fernando Servián
 ## Development
-I am pursuing a Bachelor's Degree in Computer Science. I am expanding my knowledge in back-end development, and I also enjoy software development, especially when it's something useful that makes life easier. Outside of coding, I love gaming and hiking 
+I am pursuing a Bachelor's Degree in Computer Science. I am expanding my knowledge in back-end development, and I also enjoy software development, especially when it's something useful that makes life easier. Outside of coding, I love gaming and hiking. 
 In the future, I want to delve deeper into cloud computing and Big Data, as I’m fascinated by how they enable scalable, data-driven applications and can help businesses make informed decisions.
 
 ## Skills 
@@ -17,4 +17,6 @@ In the future, I want to delve deeper into cloud computing and Big Data, as I’
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Naidess)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidess)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
