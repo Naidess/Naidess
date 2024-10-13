@@ -13,7 +13,8 @@ In the future, I want to delve deeper into cloud computing and Big Data, as I’
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Naidess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-servián-026292308/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidess)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naidess&show_icons=true)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Naidess)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidess)](https://github.com/anuraghazra/github-readme-stats)
 
