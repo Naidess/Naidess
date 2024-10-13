@@ -18,5 +18,5 @@ In the future, I want to delve deeper into cloud computing and Big Data, as I’
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidess)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidess&layout=compact)
 
